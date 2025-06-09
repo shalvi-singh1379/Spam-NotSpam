@@ -55,15 +55,19 @@ Model performance is evaluated using:
 
 ---
 
-## Example
+## 💬 Example
 
-<pre> ```python Enter a message to classify (or type 'exit' to quit): Congratulations! You've won a free vacation. The message: 'Congratulations! You've won a free vacation.' is classified as: Spam ``` </pre>
+```bash
+Enter a message to classify (or type 'exit' to quit): Congratulations! You've won a free vacation.
+The message: 'Congratulations! You've won a free vacation.' is classified as: Spam
+```
 
 ---
 
 ## Notes
 
 This is a basic implementation and can be enhanced further using techniques like **TF-IDF, stopword removal, lemmatization, or advanced models**.
+
 
 
 
