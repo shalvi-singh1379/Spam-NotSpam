@@ -32,7 +32,7 @@ A simple machine learning-based SMS spam detection system built using Python and
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 1. Python
 2. scikit-learn
@@ -41,13 +41,13 @@ A simple machine learning-based SMS spam detection system built using Python and
 
 ---
 
-##Model Used
+## Model Used
 
 Multinomial Naive Bayes: Well-suited for text classification tasks involving word counts or frequencies.
 
 ---
 
-##Evaluation
+## Evaluation
 
 Model performance is evaluated using:
 1. Accuracy
@@ -55,13 +55,13 @@ Model performance is evaluated using:
 
 ---
 
-##Example
+## Example
 
 <pre> ```python Enter a message to classify (or type 'exit' to quit): Congratulations! You've won a free vacation. The message: 'Congratulations! You've won a free vacation.' is classified as: Spam ``` </pre>
 
 ---
 
-##Notes
+## Notes
 
 This is a basic implementation and can be enhanced further using techniques like **TF-IDF, stopword removal, lemmatization, or advanced models**.
 
